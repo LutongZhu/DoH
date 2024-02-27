@@ -1,6 +1,6 @@
 #!name=DoH
 #!desc=纯脚本实现 DoH
-#!system=mac
+#!system=ios
 
 [Script]
 DoH.js = type=dns,script-path=DoH.js,desc=DoH.js
